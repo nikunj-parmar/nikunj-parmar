@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" alt="Nikunj Parmar" width="700"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZzMDYzeXVteTdlOHFyazJzcDFrNDczenNpYTBsc2F5eDRzZTF5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Nikunj Parmar" width="700"/>
 </p>
-
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv">via GIPHY</a></p>
 
 ## Hi there! 👋
 
