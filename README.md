@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="
-https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZzMDYzeXVteTdlOHFyazJzcDFrNDczenNpYTBsc2F5eDRzZTF5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Nikunj Parmar" width="700"/>
+  <img src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" alt="Nikunj Parmar" width="700"/>
 </p>
 
 ## Hi there! 👋
