@@ -1,5 +1,9 @@
 ## Hi there! 👋
 
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZoNTc0enp4cGMwbzBoN3l2aTV2cnllcHQ5ajc4cmRiNGFsdmhjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif" alt="Nikunj Parmar" width="700"/>
+</p>
+
 I'm a passionate and dedicated Senior Software Engineer with over three years of experience in the IT industry. I love crafting robust and scalable solutions, and I've had the opportunity to work on diverse and exciting projects that have significantly impacted businesses.
 
 ### My Expertise 🚀
