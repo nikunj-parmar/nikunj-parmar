@@ -38,7 +38,7 @@ Over the years, I've built comprehensive systems that streamline business proces
 
 ### Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nikunj-parmar-2839a81b3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nikunj-parmar-python/)
 
 <!--
 **nikunj-parmar/nikunj-parmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
